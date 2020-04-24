@@ -7,7 +7,9 @@ WARP+ uses Cloudflare’s virtual private backbone, known as Argo, to achieve hi
 
 ![Code Size](https://img.shields.io/github/languages/code-size/iSumitBanik/Cloudflare-WARP-Plus-Script) ![Top Language](https://img.shields.io/github/languages/top/iSumitBanik/Cloudflare-WARP-Plus-Script)
 
+### Screenshot 📷
 
+![](https://raw.githubusercontent.com/iSumitBanik/Cloudflare-WARP-Plus-Script/master/repl-script.png)
 
 Script Link: [Try it](https://cloudflare-warp-plus-script.thesumitbanik.repl.run) 🚀
 _____________________________________________________________________________________________________________________________________
