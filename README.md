@@ -7,6 +7,13 @@ WARP+ uses Cloudflare’s virtual private backbone, known as Argo, to achieve hi
 
 ![Code Size](https://img.shields.io/github/languages/code-size/iSumitBanik/Cloudflare-WARP-Plus-Script) ![Top Language](https://img.shields.io/github/languages/top/iSumitBanik/Cloudflare-WARP-Plus-Script)
 
+#### How to get the 1.1.1.1 ID?
+
+1. Open 1.1.1.1 App
+2. Click on the Hamburger Menu Icon ☰
+3. Advanced > Diagonistics
+4. Under Client Configuration > Copy the ID
+
 ### Screenshot 📷
 
 ![](https://raw.githubusercontent.com/iSumitBanik/Cloudflare-WARP-Plus-Script/master/repl-script.png)
