@@ -1,5 +1,7 @@
 # Cloudflare-WARP-Plus-Script
 
+**Note: The Script has been patched and it won't work anymore** 🚫
+
 This is a simple Python Script which credits you with 2GB of WARP+ data. 📱
 
 ### What is WARP+? 
